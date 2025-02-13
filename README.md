@@ -46,7 +46,7 @@ If you find other essential papers related to DeepSeek, feel free to contribute 
 
 *   **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**
 
-    [Hugging Face 论文链接](https://huggingface.co/papers/2402.03300)  (或者你也可以使用 [arXiv 链接](https://arxiv.org/abs/2402.03300))
+    [Hugging Face 论文链接](https://huggingface.co/papers/2402.03300)  (或者 [arXiv 论文链接](https://arxiv.org/abs/2402.03300))
 
     本文介绍了 DeepSeekMath，重点在于推动开放语言模型在数学推理方面的极限。
 
