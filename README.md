@@ -12,7 +12,7 @@ This repository hosts essential research papers for understanding DeepSeek, a po
 
 *   **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**
 
-    [Paper Link on Hugging Face](https://huggingface.co/papers/2402.03300)  (或者你也可以使用 [arXiv 链接](https://arxiv.org/abs/2402.03300))
+    [Paper Link on Hugging Face](https://huggingface.co/papers/2402.03300)  (or [Paper Link on arXiv](https://arxiv.org/abs/2402.03300))
 
     This paper presents DeepSeekMath, focusing on pushing the boundaries of mathematical reasoning in open language models.
 
