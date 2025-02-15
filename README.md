@@ -61,3 +61,15 @@ DeepSeek-R1 和 DeepSeekMath 这两篇论文是任何希望深入了解 DeepSeek
 **贡献：**
 
 如果您发现其他与 DeepSeek 相关的必备论文，欢迎通过建议或提交 pull request 的方式为本仓库做出贡献。
+
+## 致谢
+
+本仓库的不断优化，将仰仗各位的帮助与支持。
+
+
+
+欢迎关注微信公众号，一起探讨交流 AI 相关知识。
+
+<div align="center"> 
+  <img src=".\figure\wechat_QR_code.png" style="width: 90%">
+</div>
